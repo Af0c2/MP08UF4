@@ -1,2 +1,2 @@
-#Instal·lació Moodle#
+#Instal·lació Moodle
 
