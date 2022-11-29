@@ -29,6 +29,7 @@
   ![image](https://user-images.githubusercontent.com/104194793/204566076-96d0afc6-bd7d-47b3-b213-88556be00f5f.png)
   
 7. Ara instal·larem el php7.3.
+
   ![image](https://user-images.githubusercontent.com/104194793/204568233-a5ec0a09-0cf7-4f21-86e0-1b608c969777.png)
   ![image](https://user-images.githubusercontent.com/104194793/204568423-b641a827-a884-4224-9fde-654d0e4b4a1b.png)
 
