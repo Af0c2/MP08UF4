@@ -76,7 +76,14 @@
 20. Per últim anirem al buscador i posarem *la nostra ip*/moodle.
     ![image](https://user-images.githubusercontent.com/104194793/204576133-97ab855b-0a3f-4d3c-b167-b4ec8a5fb3f0.png)
 
-  
+21. Un cop fet fet això, començarem en l'instal·lació. Seleccionarem l'idioma, en el nostre cas el català. 
+    ![image](https://user-images.githubusercontent.com/104194793/205074582-45e6bf24-07c0-4751-8628-6145ee55ab1a.png)
+
+22. Un cop seleccionat l'idioma, posarem següent i ens ha donat els errors del PHP cURL i del PHP Zip.
+    ![image](https://user-images.githubusercontent.com/104194793/205075041-dabb22d6-942a-4750-908c-da4c37e87de0.png)
+
+
+23. Com que abans ja haviem instal·lat el PHP, ara sol tindrem que buscar al terminal 
   
 
 
