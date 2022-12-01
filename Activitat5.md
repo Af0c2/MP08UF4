@@ -141,6 +141,11 @@
 36. Un cop hem posat continuar, configurarem el nom del lloc. 
   ![image](https://user-images.githubusercontent.com/104194793/205090772-86ea7bb8-1bc9-44f6-b8b3-f84c25ecea23.png)
   ![image](https://user-images.githubusercontent.com/104194793/205090828-58905f0b-cef2-4419-858d-fe48d668dd89.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205091214-1cc85942-3122-4a31-b2a6-2fb898cbc3c3.png)
+  
+37. Un cop guardats els canvis, ja tindrem el nostre moodle instal·lat i configurat.
+  ![image](https://user-images.githubusercontent.com/104194793/205091505-05d93fc9-ef70-4d8f-89fc-4f4551c41958.png)
+
 
   
 
