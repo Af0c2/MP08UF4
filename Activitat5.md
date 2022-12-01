@@ -25,7 +25,7 @@
 5. Un cop instal·lada MariaDB, instal·larem la configuració de seguretat de mysql.
   ![image](https://user-images.githubusercontent.com/104194793/204564764-413ca477-4864-4b64-be04-5f7fd251df2a.png)
 
-6. Un cop instal3lada la configuració de seguretat de mysql, el que farem serà comprovar si podem entrar. 
+6. Un cop instal·lada la configuració de seguretat de mysql, el que farem serà comprovar si podem entrar. 
   ![image](https://user-images.githubusercontent.com/104194793/204566076-96d0afc6-bd7d-47b3-b213-88556be00f5f.png)
   
 7. Ara instal·larem el php7.3.
