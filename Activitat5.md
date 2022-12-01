@@ -30,7 +30,7 @@
   
 7. Ara instal·larem el php7.3.
 
-  ![image](https://user-images.githubusercontent.com/104194793/204568233-a5ec0a09-0cf7-4f21-86e0-1b608c969777.png)
+ ![image](https://user-images.githubusercontent.com/104194793/205083658-a7d544ba-398b-478a-9a81-a24e650c6b75.png)
   ![image](https://user-images.githubusercontent.com/104194793/204568423-b641a827-a884-4224-9fde-654d0e4b4a1b.png)
 
 8. El següent que farem serà editar següent el fitxer per a que així ens mostri index.php, en compte de index.html.
@@ -83,7 +83,69 @@
     ![image](https://user-images.githubusercontent.com/104194793/205075041-dabb22d6-942a-4750-908c-da4c37e87de0.png)
 
 
-23. Com que abans ja haviem instal·lat el PHP, ara sol tindrem que buscar al terminal 
+23. Com que abans ja haviem instal·lat el PHP, ara sol tindrem que posar al terminal les dos comandes següents: 
+  ![image](https://user-images.githubusercontent.com/104194793/205080091-652ffa64-b46a-462e-b97b-9dfc44f541c4.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205080143-0d569dc8-dff5-42b0-b89e-b66d7424e118.png)
+
+
+24. Un cop instal·lat el PHP cURL, instal·larem el PHP Zip. 
+  ![image](https://user-images.githubusercontent.com/104194793/205080426-d23de059-8934-4e63-b84c-fee9b6ec5df4.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205080617-ad6fa29d-913e-4dd8-b76f-4bc97e8385ab.png)
+
+
+25. El següent que farem serà recarregar el servidor.
+  ![image](https://user-images.githubusercontent.com/104194793/205080845-c8aa4af9-066d-4c45-bed3-d0e6378393f0.png)
+
+
+26. Un cop recarregat el servidor, recarregarem la pàgina i si hem fet tots els passos bé ens sortirà aquesta pantalla.
+  ![image](https://user-images.githubusercontent.com/104194793/205081107-bbf433a2-5807-48f2-bb1b-5f08c97ade06.png)
+
+
+27. Li canviarem el directori i posarem que sigui el /home/moodledata
+  ![image](https://user-images.githubusercontent.com/104194793/205081390-6392ae40-d4fa-4dc4-8034-dffc22237f95.png)
+
+
+28. Ara tenim que seleccionar la Base de dades que hem instal·lat, en el nostre cas MariaDB. 
+  ![image](https://user-images.githubusercontent.com/104194793/205081688-0c9e84f8-8450-4da4-80f1-dab5dc092ca9.png)
+
+
+29. Ara haurem de canviar el nom de la base de dades i el nom de l'usuari.
+  ![image](https://user-images.githubusercontent.com/104194793/205082206-65bb83e5-e088-4e4c-8bdb-beb5b6bccc8c.png)
+
+
+30. Un cop fet això ens dona un error que tenim que instal·lar l'extensió xml. Un cop instal·lada a la pantalla del moodle ens sortirà aquest missatge i li donarem a Continua. 
+  ![image](https://user-images.githubusercontent.com/104194793/205085872-3d73e462-039a-45d2-83ef-d5f01f8cc6fc.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205086169-90fbd4bc-b9cd-4a05-82c8-43e79cc6c756.png)
+
+31. El moodle ara ens llistarà una llista per si tenim que resoldre algun problema. 
+  ![image](https://user-images.githubusercontent.com/104194793/205086438-548a3e81-8cb4-407a-94d1-803ebd69006e.png)
+
+
+32. Ara resoldrem tots els problemes en la següent comanda i després recarregarem el servidor:
+  ![image](https://user-images.githubusercontent.com/104194793/205086846-491cded2-5b8c-4c96-bb23-b795bcf156f2.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205087080-1551d9c0-8dc3-400d-ad39-32215a747b37.png)
+
+
+33. Un cop posada la següent comanda ens sortirà que tot està bé. 
+  ![image](https://user-images.githubusercontent.com/104194793/205087181-a31b42d6-6300-4df3-b98f-403950070d14.png)
+
+
+34. Si totes les accions s'han realitzat amb èxit, ens sortirà aquesta pantalla. 
+  ![image](https://user-images.githubusercontent.com/104194793/205087638-ee4c23db-89f3-4b81-a6a9-816cbca8fb29.png)
+
+35. El següent que ens demanarà moodle serà que configuressim el compte d'administrador. 
+  ![image](https://user-images.githubusercontent.com/104194793/205087889-a485b113-50c4-4607-a194-981745a9b0a7.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205089304-6e094164-c7a7-4f8b-ab14-396bb78b040f.png)
+
+
+36. Un cop hem posat continuar, configurarem el nom del lloc. 
+  ![image](https://user-images.githubusercontent.com/104194793/205090772-86ea7bb8-1bc9-44f6-b8b3-f84c25ecea23.png)
+  ![image](https://user-images.githubusercontent.com/104194793/205090828-58905f0b-cef2-4419-858d-fe48d668dd89.png)
+
+  
+
+
+
   
 
 
