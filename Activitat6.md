@@ -1,6 +1,6 @@
 # Creació dels cursos de Moodle
 
-Anirem a Administració del lloc, seguidament anirem a Cursos, un cop a cursos anirem a Gestiona cursos i categories. Un cop allí, afegirem el nom de les categories i dels cursos que se'ns demanen. 
+Anirem a Administració del lloc, seguidament anirem a Cursos, un cop a cursos anirem a Gestiona cursos i categories. Un cop allí, afegirem el nom de les categories i subcategories, per últim entrarem dintre de cada categoria i crearem els cursos que se'ns demanen.
 
 ![image](https://user-images.githubusercontent.com/104194793/207902434-785c3340-6a8d-4235-910d-1a38e881597a.png)
 
