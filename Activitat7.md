@@ -39,6 +39,8 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 
 6.  Crea un alumne anomenat Cognom_1_alumne.
+  ![image](https://user-images.githubusercontent.com/104194793/212097551-1fa748b4-1526-4e6f-a539-9570f8b37062.png)
+
 7.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
 ![image](https://user-images.githubusercontent.com/110727546/205681118-13764074-331b-42b7-b051-38f816f8b931.png)
