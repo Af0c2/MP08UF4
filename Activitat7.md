@@ -45,6 +45,13 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 ![image](https://user-images.githubusercontent.com/110727546/205681118-13764074-331b-42b7-b051-38f816f8b931.png)
 
+Seguidament anirem on ens diu càrrega usuaris.
+![image](https://user-images.githubusercontent.com/104194793/212098416-73c6613a-3390-4de3-832a-e65d16e4837b.png)
+
+Crearem aquest full de càlcul.
+
+
+
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
