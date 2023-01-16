@@ -12,21 +12,45 @@
   ![image](https://user-images.githubusercontent.com/104194793/212272378-6c9f3320-bb78-431e-8551-c6562c978bd0.png)
 
 - Oculta el seu mail a usuaris sense permisos.
-  
+  ![image](https://user-images.githubusercontent.com/104194793/212716247-7bee55db-a176-45b4-a9fc-d9b870711b16.png)
+
 - Canvia el primer dia de la setmana del calendari a Diumenge.
+  ![image](https://user-images.githubusercontent.com/104194793/212715538-54f44027-089a-4f73-b983-9e71b1b19d01.png)
+
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
+  ![image](https://user-images.githubusercontent.com/104194793/212715729-f9d231e7-3ccc-4821-9215-a830bcd81e95.png)
+
 
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+  ![image](https://user-images.githubusercontent.com/104194793/212716820-c0fef205-5df7-463c-b04b-03a5c24100ef.png)
+
 - Inscriu a tots els alumnes al curs.
+  ![image](https://user-images.githubusercontent.com/104194793/212717723-cedaf6d4-317c-47b4-baf7-a6fce53e7652.png)
+
 - Inscriu a tots els professors al curs.
+  ![image](https://user-images.githubusercontent.com/104194793/212717744-19c1e294-a5de-47c1-b1d7-2d7c3ced19da.png)
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+  ![image](https://user-images.githubusercontent.com/104194793/212718238-0f7f7cc3-10ab-4f5a-918f-3d1fc7017771.png)
+  ![image](https://user-images.githubusercontent.com/104194793/212718304-9ff2262b-e961-455d-96db-bfc1777dbcf8.png)
+
 - Fes que dos estudiants fassin consultes al fòrum.
+  ![image](https://user-images.githubusercontent.com/104194793/212719685-ddb2933e-8be5-4331-91fe-155d913f94b5.png)
+
 - Contesta les preguntes amb un perfil de professor.
+  ![image](https://user-images.githubusercontent.com/104194793/212720264-b8135480-a0e9-4ca2-89ff-5ba4ac16586b.png)
+
 - Crea un tema anomenat "Fonaments de Python".
+  ![image](https://user-images.githubusercontent.com/104194793/212720540-1c531d41-5fdf-4a90-80b8-1ddf27bf04c6.png)
+
 - Oculta la resta de temes del curs.
+  ![image](https://user-images.githubusercontent.com/104194793/212720631-d76d5973-bcc3-43aa-9a97-cd877a0b0d69.png)
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+  
+  
 - Fes que els alumnes contestin la tasca (mínim 3).
 - Qualifica la tasca de l'alumnat.
 - Mostra les qualificacions de l'alumnat.
