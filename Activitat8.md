@@ -92,6 +92,13 @@
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+  Entrarem a seguretat i anirem a polítiques del lloc.
+  ![image](https://user-images.githubusercontent.com/104194793/213494392-d701352e-2552-439e-b1a8-d8fbefcf1ae7.png)
+
+  Un cop dintre durem a terme els següents canvis. 
+  ![image](https://user-images.githubusercontent.com/104194793/213494659-6158a8c1-f5f0-41ce-a06d-d98ea6bc31ae.png)
+
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
