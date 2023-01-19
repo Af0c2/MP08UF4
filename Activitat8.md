@@ -94,10 +94,12 @@
   
    VIDEO TIME
    
+   
    ![image](https://user-images.githubusercontent.com/104194793/213469542-186a16ed-8b78-4770-97ab-2fd04033ffb4.png)
   Aquest plugin ens serveix per insertar fàcilment vídeos de Vimeo i Youtube al nostre curs. 
   
   MOODLE BENCHMARK
+  
   
   ![image](https://user-images.githubusercontent.com/104194793/213477276-fb595158-b128-4c4c-94da-9edec4b04dfc.png)
   Aquest pluguin realitza diverses proves per determinar la qualitat de la plataforma Moodle.
