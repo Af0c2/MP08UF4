@@ -75,6 +75,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 ## A1 - Backup i restauració de curs:
 
 - Fareu una còpia de seguretat del vostre curs elaborat a Moodle.
+  ![image](https://user-images.githubusercontent.com/104194793/213736104-cb84b649-f347-438a-9b6a-2a101dd888ac.png)
+
 - Passareu el fitxer al server del company/a de grup.
 - Recuperareu el curs al seu Moodle.
 - Comprovareu que tot funciona correctament.
