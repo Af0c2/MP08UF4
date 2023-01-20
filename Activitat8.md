@@ -164,7 +164,7 @@ Escollirem el tema que volem canviar i el baixarem.
 
 Posarem canvia el tema i ja ho tindrem canviat.
 ![image](https://user-images.githubusercontent.com/104194793/213733005-b9f4955d-2856-4745-92cb-2a9189982f40.png)
-![image](https://user-images.githubusercontent.com/104194793/213733051-3349ff09-d15a-43ad-9c8a-7e59de71c39f.png)
+![image](https://user-images.githubusercontent.com/104194793/213733261-072547b9-9415-4394-8646-512bc02c1c40.png)
 
 
 
