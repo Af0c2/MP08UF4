@@ -160,6 +160,13 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 Escollirem el tema que volem canviar i el baixarem.
 ![image](https://user-images.githubusercontent.com/104194793/213476379-9dd18d1e-9614-442b-bd42-38065cba12da.png)
 
+![image](https://user-images.githubusercontent.com/104194793/213732721-10f90fe5-174f-44fc-8e53-e09930421777.png)
+
+Posarem canvia el tema i ja ho tindrem canviat.
+![image](https://user-images.githubusercontent.com/104194793/213733005-b9f4955d-2856-4745-92cb-2a9189982f40.png)
+![image](https://user-images.githubusercontent.com/104194793/213733051-3349ff09-d15a-43ad-9c8a-7e59de71c39f.png)
+
+
 
 
 
