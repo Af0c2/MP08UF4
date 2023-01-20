@@ -75,10 +75,28 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 ## A1 - Backup i restauració de curs:
 
 - Fareu una còpia de seguretat del vostre curs elaborat a Moodle.
+  Anirem al curs de Programació en Python, anirem a la rodeta de dalt de tot i escollirem l'opció de còpies de seguretat. 
   ![image](https://user-images.githubusercontent.com/104194793/213736104-cb84b649-f347-438a-9b6a-2a101dd888ac.png)
+  
+  Escollirem el que volem que se'ns baixi en la còpia de seguretat. 
+  ![image](https://user-images.githubusercontent.com/104194793/213738182-5571cf83-bb97-48dd-89a9-379aa729e2c2.png)
+  
+  Un cop escollit, li donarem al botó de FES LA CÒPIA.
+  ![image](https://user-images.githubusercontent.com/104194793/213739351-94445b1c-404f-409d-b85c-417769c64940.png)
+  
+  Un cop completada ens sortirà aquest missatge.
+  ![image](https://user-images.githubusercontent.com/104194793/213739697-8160a484-ac37-4027-8e08-84b865e0611e.png)
 
 - Passareu el fitxer al server del company/a de grup.
+  ![image](https://user-images.githubusercontent.com/104194793/213742407-a75971af-4059-4708-ae09-e20aeb26713c.png)
+  ![image](https://user-images.githubusercontent.com/104194793/213742656-7d629b9d-9457-42c6-9e3d-f8f25a9b414a.png)
+
 - Recuperareu el curs al seu Moodle.
+  ![image](https://user-images.githubusercontent.com/104194793/213744979-eb11e0ca-7deb-46a3-864f-7542e6c93a82.png)
+  ![image](https://user-images.githubusercontent.com/104194793/213745191-b945e21a-8d32-4824-8548-b72e721a9993.png)
+  ![image](https://user-images.githubusercontent.com/104194793/213745313-40e06cf8-ad48-4cb8-9163-ba45f9e3587c.png)
+  
+  
 - Comprovareu que tot funciona correctament.
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
