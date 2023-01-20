@@ -157,9 +157,6 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
 [Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
 
-Escollirem el tema que volem canviar i el baixarem.
-![image](https://user-images.githubusercontent.com/104194793/213476379-9dd18d1e-9614-442b-bd42-38065cba12da.png)
-
 ![image](https://user-images.githubusercontent.com/104194793/213732721-10f90fe5-174f-44fc-8e53-e09930421777.png)
 
 Posarem canvia el tema i ja ho tindrem canviat.
