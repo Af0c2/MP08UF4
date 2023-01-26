@@ -110,5 +110,5 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 # Recursos per a fer vídeos:
 
 - [Editor Kdenlive](https://kdenlive.org/es/).
-- [Editor online de vídeo Cliupchamp](https://clipchamp.com/en/)
+- [Editor online de vídeo Cliupchamp](https://clipchamp.com/en/) 
 
