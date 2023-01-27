@@ -95,9 +95,15 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
   ![image](https://user-images.githubusercontent.com/104194793/213744979-eb11e0ca-7deb-46a3-864f-7542e6c93a82.png)
   ![image](https://user-images.githubusercontent.com/104194793/213745191-b945e21a-8d32-4824-8548-b72e721a9993.png)
   ![image](https://user-images.githubusercontent.com/104194793/213745313-40e06cf8-ad48-4cb8-9163-ba45f9e3587c.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215109715-9c8aeb39-8c1e-4097-9e9b-83f945cd0d06.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215110031-3c7628f3-3a7e-497b-89d2-08b6fb68f2ea.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215110155-4b8c1727-aa84-4081-92af-bda3fa1e60ce.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215110863-2c1ee557-0ade-4862-a4eb-d0c279b46cdb.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215110974-7426914f-4c40-45e0-891b-d9eafff13bc1.png)
   
+  - Comprovareu que tot funciona correctament.
   
-- Comprovareu que tot funciona correctament.
+    
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
