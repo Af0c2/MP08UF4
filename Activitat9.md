@@ -111,6 +111,25 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 
 - Per aquesta pràctica necessitareu un servidor ubuntu net que serà el receptor del Moodle.
 - Migrareu tota la informació d'un dels dos Moodles actuals (escolliu un) a la màquina ubuntu server nova.
+  Per començar el que farem serà activar el mode de manteniment del moodle. 
+  
+  Recolzarem la base de dades del moodle al servidor antic. 
+  
+  Restaurarem el suport de la base de dades al nou servidor. 
+  
+  Copiem el fitxer moodledata des de l'antic servidor al nou servidor.
+  
+  Copiem el codi del Moodle des de l'antic servidor al nou.
+  
+  Actualitzem el fitxer config.php amb l'URL del nou servidor.
+  
+  Provem el lloc copiat.
+  
+  Actualitzem els enllaços que contenen wwwroot a la base de dades. 
+  
+  Treiem el moodle del mode de manteniment. 
+  
+  
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
 # Recursos per a fer vídeos:
