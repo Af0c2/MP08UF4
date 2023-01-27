@@ -99,11 +99,12 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
   ![image](https://user-images.githubusercontent.com/104194793/215110031-3c7628f3-3a7e-497b-89d2-08b6fb68f2ea.png)
   ![image](https://user-images.githubusercontent.com/104194793/215110155-4b8c1727-aa84-4081-92af-bda3fa1e60ce.png)
   ![image](https://user-images.githubusercontent.com/104194793/215110863-2c1ee557-0ade-4862-a4eb-d0c279b46cdb.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215117488-b56562a4-cb8f-42a7-97e6-0ac6bbb3a5cc.png)
   ![image](https://user-images.githubusercontent.com/104194793/215110974-7426914f-4c40-45e0-891b-d9eafff13bc1.png)
   
   - Comprovareu que tot funciona correctament.
-  
-    
+  ![image](https://user-images.githubusercontent.com/104194793/215117611-cff36fa0-9686-473b-b37a-3e0db2125ad5.png)
+ 
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
@@ -112,8 +113,12 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - Per aquesta pràctica necessitareu un servidor ubuntu net que serà el receptor del Moodle.
 - Migrareu tota la informació d'un dels dos Moodles actuals (escolliu un) a la màquina ubuntu server nova.
   Per començar el que farem serà activar el mode de manteniment del moodle. 
+  ![image](https://user-images.githubusercontent.com/104194793/215118059-12d325e7-6ec5-4b82-9ab1-f462c2637f21.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215118133-2ca1c83a-04e8-4bf3-bb14-33ba80da9168.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215118327-d16af209-3469-41a3-a503-d90d5f3b5d96.png)
   
   Recolzarem la base de dades del moodle al servidor antic. 
+  
   
   Restaurarem el suport de la base de dades al nou servidor. 
   
