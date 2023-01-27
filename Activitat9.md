@@ -101,6 +101,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
   ![image](https://user-images.githubusercontent.com/104194793/215110863-2c1ee557-0ade-4862-a4eb-d0c279b46cdb.png)
   ![image](https://user-images.githubusercontent.com/104194793/215117488-b56562a4-cb8f-42a7-97e6-0ac6bbb3a5cc.png)
   ![image](https://user-images.githubusercontent.com/104194793/215110974-7426914f-4c40-45e0-891b-d9eafff13bc1.png)
+  ![image](https://user-images.githubusercontent.com/104194793/215118973-35482218-2188-4b48-ad75-e308fdd0da63.png)
+
   
   - Comprovareu que tot funciona correctament.
   ![image](https://user-images.githubusercontent.com/104194793/215117611-cff36fa0-9686-473b-b37a-3e0db2125ad5.png)
