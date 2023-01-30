@@ -109,6 +109,7 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
  
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
+ Vídeo:https://youtu.be/K-f6AhO1afw
 
 ## A2 - Migració de Moodle:
 
